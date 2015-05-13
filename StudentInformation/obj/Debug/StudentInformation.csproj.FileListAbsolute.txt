@@ -1,0 +1,9 @@
+E:\103407\02052015\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe.config
+E:\103407\02052015\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csprojResolveAssemblyReference.cache
+E:\103407\02052015\StudentInformation\StudentInformation\obj\Debug\StudentInformation.Form1.resources
+E:\103407\02052015\StudentInformation\StudentInformation\obj\Debug\StudentInformation.Properties.Resources.resources
+E:\103407\02052015\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.GenerateResource.Cache
+E:\103407\02052015\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe
+E:\103407\02052015\StudentInformation\StudentInformation\bin\Debug\StudentInformation.pdb
+E:\103407\02052015\StudentInformation\StudentInformation\obj\Debug\StudentInformation.exe
+E:\103407\02052015\StudentInformation\StudentInformation\obj\Debug\StudentInformation.pdb
